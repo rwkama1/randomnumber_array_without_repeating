@@ -1,0 +1,16 @@
+{
+  "name": "number-array-without-repeating",
+  "version": "1.0.0",
+  "description": "Algorithm to fill a vector with random numbers without repeating.",
+  "scripts": {
+    "start": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/randomnumber_array_without_repeating"
+  },
+ 
+  "keywords": ["js","javascript","calculation","array","number","random"],
+  "author": "Carlos Rodriguez <rwkamandriw@gmail.com>",
+  "license": "MIT"
+}
